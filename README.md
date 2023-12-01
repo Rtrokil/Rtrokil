@@ -1,5 +1,5 @@
 # 👤 Read it:
-   🕸️⛓️.Main Founder of  "Antifreeze Squad Founder".⛓️🕸️<br>                               
+   🕸️⛓️.Main Founder of  "Antifreeze Squad".⛓️🕸️<br>                               
    ⚫. Our discord server:  https://discord.gg/JzcerSyb35. (join it) .⚫<br>      
    🕯️. AntiFreeze Squad is a Discord server where you can find everything from optimizations for <br>for your PC to cheats and tools.🕯️<br><br>
    💣. In this account I will publish all kinds of cheats whether they are from MC, Cs, and more. <br>💥 -All this obviously including other things.<br> 
