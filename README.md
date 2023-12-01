@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👤 Read it:
    🕸️⛓️.Main Founder of  "Antifreeze Squad Founder".⛓️🕸️<br><br>                               
    ⚫. Our discord server:  https://discord.gg/JzcerSyb35. (join it) .⚫<br><br>      
    🕯️. AntiFreeze Squad is a Discord server where you can find everything from optimizations for <br>for your PC to cheats and tools.🕯️<br><br>
@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JzcerSyb35) 
 
-# 💻 Tech Stack:
+# 💻 Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rtrokil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
